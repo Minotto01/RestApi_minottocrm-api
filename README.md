@@ -31,22 +31,6 @@ Request no postman para ler o banco de dados.
 - H2 Database
 - Lombok
 
-## 
-
-# Como executar o projeto
-Pré-requisitos: Java 17
-
-```bash
-# clonar repositório
-git clone https://github.com/Minotto01/RestApi_minottocrm-api
-
-# entrar na pasta target
-cd target
-
-# executar o arquivo jar do projeto
-java -jar minottocrm-api-0.0.1-SNAPSHOT.jar
-```
-
 # Autor
 
 Gabriel Minotto Ferreira Marta
